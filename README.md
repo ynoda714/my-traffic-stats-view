@@ -1,5 +1,7 @@
 # my-traffic-stats-view
 
+[日本語版 (Japanese)](./docs/README.ja.md)
+
 GitHub Traffic Analytics Dashboard
 
 ## 📊 View Dashboard
@@ -15,11 +17,6 @@ This dashboard automatically aggregates and displays GitHub traffic statistics (
 
 ### Update Frequency
 Updated daily at 00:30 JST (UTC 15:30)
-
----
-
-### 📖 Documentation
-- [日本語版 (Japanese)](./docs/README.ja.md)
 
 ---
 
