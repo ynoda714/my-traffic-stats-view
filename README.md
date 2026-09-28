@@ -14,6 +14,7 @@ This dashboard automatically aggregates and displays GitHub traffic statistics (
 - [AnyNMR-matlab](https://github.com/ynoda714/AnyNMR-matlab)
 - [AnyResearch-matlab](https://github.com/ynoda714/AnyResearch-matlab)
 - [EasyMolKit-matlab](https://github.com/ynoda714/EasyMolKit-matlab)
+- [ElabftwKit-matlab](https://github.com/ynoda714/ElabftwKit-matlab)
 
 ### Update Frequency
 Updated daily at 00:30 JST (UTC 15:30)
